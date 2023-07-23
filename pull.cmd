@@ -1,0 +1,1 @@
+pwsh.exe -File .\scripts\pull.ps1
