@@ -1,1 +1,1 @@
-pwsh.exe -File .\scripts\backup.ps1
+pwsh -File .\scripts\backup.ps1

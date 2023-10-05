@@ -2,5 +2,6 @@
 	email = trunghsg2012@gmail.com
 	name = giatrung2012
 [safe]
-	directory = E:/win10-scripts
 	directory = E:/win11-scripts
+[credential]
+	helper = manager

@@ -2,6 +2,9 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no" bookmarkLine="no" purge="no">
         <Filter name="" />
+        <Find name="on" />
+        <Find name="ckfinder" />
+        <Find name="bin" />
         <Find name="RestorePackages" />
         <Find name="restore" />
         <Find name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build" />
@@ -9,23 +12,20 @@
         <Find name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions" />
         <Find name="DotNetCompilerPlatform" />
         <Find name="./Gia Trung_files/l8heOQXmJERu1jlHrsCZ0rw9czeZdpCk.png" />
-        <Find name="Gia Trung_files" />
-        <Find name="JoinChannelRequest" />
-        <Find name="may not be" />
         <Replace name="assets" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\Downloads\response-to-pull.txt" />
-        <File filename="C:\Users\giatrung2012\manifests\b\BandicamCompany\Bandicam\6.2.3.2078\BandicamCompany.Bandicam.installer.yaml" />
-        <File filename="C:\Users\giatrung2012\Downloads\2.415\Jenkins.Jenkins.yaml" />
-        <File filename="C:\Users\giatrung2012\Downloads\2.415\Jenkins.Jenkins.locale.en-US.yaml" />
-        <File filename="C:\Users\giatrung2012\manifests\j\JenkinsProject\Jenkins\2.255.4150\JenkinsProject.Jenkins.locale.en-US.yaml" />
-        <File filename="C:\Users\giatrung2012\manifests\j\JenkinsProject\Jenkins\2.255.4150\JenkinsProject.Jenkins.installer.yaml" />
+        <File filename="C:\Users\giatrung2012\Downloads\chatgpt.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\new 1" />
         <File filename="C:\Users\giatrung2012\win11-scripts\scripts\winget.ps1" />
-        <File filename="C:\Users\giatrung2012\workspace\Ictshop\Ictshop\Web.config" />
-        <File filename="C:\Users\giatrung2012\workspace\Ictshop\Ictshop\Ictshop.csproj" />
-        <File filename="C:\Users\giatrung2012\workspace\Ictshop\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\lab2-dtdm.txt" />
+        <File filename="C:\Users\giatrung2012\win11-scripts\setup.ps1" />
+        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\config.ps1" />
+        <File filename="C:\Users\giatrung2012\workspace\my-app\metro.config.js" />
+        <File filename="C:\Users\giatrung2012\Downloads\HoSyGiaTrung_2024801030101.txt" />
+        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\update.ps1" />
+        <File filename="C:\Users\giatrung2012\Downloads\note-expo-firebase.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -43,8 +43,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="405" y="27" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="674" top="562" right="1288" bottom="926" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="176" y="26" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="453" top="499" right="1067" bottom="863" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -78,7 +78,7 @@
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="largeFileRestriction" fileSizeMB="200" isEnabled="yes" allowAutoCompletion="no" allowBraceMatch="no" allowSmartHilite="no" allowClickableLink="no" deactivateWordWrap="yes" />
         <GUIConfig name="multiInst" setting="0" clipboardHistory="no" documentList="no" characterPanel="no" folderAsWorkspace="no" projectPanels="no" documentMap="no" fuctionList="no" pluginPanels="no" />
-        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" fileSwitcherNoGroups="no" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" enableFoldCmdToggable="no" hideMenuRightShortcuts="no" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" fileSwitcherNoGroups="no" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="yes" muteSounds="no" enableFoldCmdToggable="no" hideMenuRightShortcuts="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" fillFindFieldWithSelected="yes" fillFindFieldSelectCaret="yes" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
