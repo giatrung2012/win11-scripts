@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no" bookmarkLine="no" purge="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="no" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no" bookmarkLine="no" purge="no">
         <Filter name="" />
-        <Find name="on" />
-        <Find name="ckfinder" />
-        <Find name="bin" />
-        <Find name="RestorePackages" />
-        <Find name="restore" />
-        <Find name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build" />
-        <Find name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" />
-        <Find name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions" />
-        <Find name="DotNetCompilerPlatform" />
-        <Find name="./Gia Trung_files/l8heOQXmJERu1jlHrsCZ0rw9czeZdpCk.png" />
+        <Find name="trunghsg2012" />
+        <Find name="tel:" />
+        <Find name="&#x1EDE; &#x0111;&#x1EAD;u H&#x00E0; Lan, alen A quy &#x0111;&#x1ECB;nh th&#x00E2;n cao tr&#x1ED9;i ho&#x00E0;n to&#x00E0;n so v&#x1EDB;i alen a quy &#x0111;&#x1ECB;nh th&#x00E2;n th&#x1EA5;p; alen B quy &#x0111;&#x1ECB;nh hoa &#x0111;&#x1ECF; tr&#x1ED9;i ho&#x00E0;n to&#x00E0;n so v&#x1EDB;i alen b quy &#x0111;&#x1ECB;nh hoa tr&#x1EAF;ng. Theo l&#x00ED; thuy&#x1EBF;t, ph&#x00E9;p lai n&#x00E0;o sau &#x0111;&#x00E2;y t&#x1EA1;o ra &#x0111;&#x1EDD;i con c&#x00F3; c&#x00E2;y th&#x00E2;n th&#x1EA5;p, hoa tr&#x1EAF;ng chi&#x1EBF;m t&#x1EC9; l&#x1EC7; 12,5%?" />
+        <Find name="M&#x1ED9;t &#x0111;o&#x1EA1;n m&#x1EA1;ch b&#x1ED5; sung c&#x1EE7;a m&#x1ED9;t gen c&#x00F3; tr&#x00EC;nh t&#x1EF1; c&#x00E1;c nucl&#x00EA;&#x00F4;tit nh&#x01B0; sau 5&apos; ATT GXG XGA GXG 3&apos;. Qu&#x00E1; tr&#x00EC;nh gi&#x1EA3;i m&#x00E3; tr&#x00EA;n &#x0111;o&#x1EA1;n mARN do &#x0111;o&#x1EA1;n gen n&#x00F3;i tr&#x00EA;n sao m&#x00E3; c&#x00F3; l&#x1EA7;n l&#x01B0;&#x1EE3;t c&#x00E1;c b&#x1ED9; ba &#x0111;&#x1ED1;i m&#x00E3; tr&#x00EA;n tARN tham gia nh&#x01B0; sau:" />
+        <Find name="Theo l&#x00FD; thuy&#x1EBF;t, t&#x1EF7; l&#x1EC7; c&#x00E1;c lo&#x1EA1;i giao t&#x1EED; AbD v&#x00E0; abd &#x0111;&#x01B0;&#x1EE3;c t&#x1EA1;o ra l&#x1EA7;n l&#x01B0;&#x1EE3;t l&#x00E0;" />
+        <Find name="&#x1EDE; m&#x1ED9;t lo&#x00E0;i th&#x1EF1;c v&#x1EAD;t, x&#x00E9;t hai c&#x1EB7;p gen tr&#x00EA;n hai c&#x1EB7;p nhi&#x1EC5;m s&#x1EAF;c th&#x1EC3; t&#x01B0;&#x01A1;ng &#x0111;&#x1ED3;ng quy &#x0111;&#x1ECB;nh t&#x00ED;nh tr&#x1EA1;ng m&#x00E0;u hoa. S&#x1EF1; t&#x00E1;c &#x0111;&#x1ED9;ng c&#x1EE7;a 2 gen tr&#x1ED9;i kh&#x00F4;ng alen quy &#x0111;&#x1ECB;nh m&#x00E0;u hoa &#x0111;&#x1ECF;; thi&#x1EBF;u s&#x1EF1; t&#x00E1;c &#x0111;&#x1ED9;ng c&#x1EE7;a m&#x1ED9;t trong 2 gen tr&#x1ED9;i ,n&#x1EBF;u thi&#x1EBF;u s&#x1EF1; t&#x00E1;c &#x0111;&#x1ED9;ng c&#x1EE7;a c&#x1EA3; 2 gen tr&#x1ED9;i n&#x00E0;y cho hoa m&#x00E0;u tr&#x1EAF;ng. C&#x01A1; th&#x1EC3; c&#x00F3; ki&#x1EC3;u gen n&#x00E0;o d&#x01B0;&#x1EDB;i &#x0111;&#x00E2;y cho ki&#x1EC3;u h&#x00EC;nh hoa tr&#x1EAF;ng?" />
+        <Find name="Khi c&#x00E1;c gen ph&#x00E2;n ly &#x0111;&#x1ED9;c l&#x1EAD;p v&#x00E0; gen tr&#x1ED9;i l&#x00E0; h&#x00F2;an t&#x00F2;an th&#x00EC; ph&#x00E9;p lai AaBbDd x AaBbDd c&#x00F3; th&#x1EC3; t&#x1EA1;o ra t&#x1EC9; l&#x1EC7; l&#x1ECD;ai h&#x1EE3;p t&#x1EED; AaBBDD:" />
+        <Find name="&#x1EDE; m&#x1ED9;t &#x0111;&#x1EAD;u H&#x00E0; Lan, x&#x00E9;t 2 c&#x1EB7;p alen tr&#x00EA;n 2 c&#x1EB7;p nhi&#x1EC5;m s&#x1EAF;c th&#x1EC3; t&#x01B0;&#x01A1;ng &#x0111;&#x1ED3;ng; gen A: v&#x00E0;ng, alen a: xanh; gen B: h&#x1EA1;t tr&#x01A1;n, alen b: h&#x1EA1;t nh&#x0103;n. D&#x1EF1; &#x0111;o&#x00E1;n k&#x1EBF;t qu&#x1EA3; v&#x1EC1; ki&#x1EC3;u h&#x00EC;nh c&#x1EE7;a ph&#x00E9;p lai P: AaBB x aaBb." />
+        <Find name="c&#x00F3; bao nhi&#x00EA;u b&#x1EC7;nh, h&#x1ED9;i ch&#x1EE9;ng n&#x00E0;o sau &#x0111;&#x00E2;y l&#x00E0; h&#x1EAD;u qu&#x1EA3; c&#x1EE7;a &#x0111;&#x1ED9;t bi&#x1EBF;n c&#x1EA5;u tr&#x00FA;c nhi&#x1EC5;m s&#x1EAF;c th&#x1EC3;?" />
+        <Find name="Khi n&#x00F3;i v&#x1EC1; gen tr&#x00EA;n nhi&#x1EC5;m s&#x1EAF;c th&#x1EC3; gi&#x1EDB;i t&#x00ED;nh c&#x1EE7;a ng&#x01B0;&#x1EDD;i, k&#x1EBF;t lu&#x1EAD;n n&#x00E0;o sau &#x0111;&#x00E2;y kh&#x00F4;ng &#x0111;&#x00FA;ng?" />
+        <Replace name="Gia h&#x1EA1;n" />
+        <Replace name="Nh&#x1EAF;c gia h&#x1EA1;n" />
+        <Replace name="&apos;Gia h&#x1EA1;n&apos;" />
+        <Replace name="Old" />
+        <Replace name="F2:F" />
+        <Replace name="E2:E" />
         <Replace name="assets" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\Downloads\chatgpt.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\new 1" />
-        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\winget.ps1" />
-        <File filename="C:\Users\giatrung2012\Downloads\lab2-dtdm.txt" />
-        <File filename="C:\Users\giatrung2012\win11-scripts\setup.ps1" />
-        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\config.ps1" />
-        <File filename="C:\Users\giatrung2012\workspace\my-app\metro.config.js" />
+        <File filename="C:\Users\giatrung2012\win11-scripts\README.md" />
+        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\scoop.ps1" />
+        <File filename="C:\Users\giatrung2012\workspace\booking-app\screens\MapScreen.js" />
+        <File filename="C:\Users\giatrung2012\Downloads\chatgpt.html" />
+        <File filename="C:\Users\giatrung2012\Downloads\database.sql" />
+        <File filename="C:\Users\giatrung2012\Downloads\move-spotify.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\enemy-spotify.txt" />
         <File filename="C:\Users\giatrung2012\Downloads\HoSyGiaTrung_2024801030101.txt" />
-        <File filename="C:\Users\giatrung2012\win11-scripts\scripts\update.ps1" />
-        <File filename="C:\Users\giatrung2012\Downloads\note-expo-firebase.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\HoSyGiaTrung_2024801030101 (1).txt" />
+        <File filename="C:\Users\giatrung2012\.config\scoop\config.json" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -43,8 +49,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="176" y="26" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="453" top="499" right="1067" bottom="863" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="312" y="19" width="922" height="679" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="722" top="203" right="1336" bottom="567" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -52,7 +58,7 @@
         <GUIConfig name="TrayIcon">no</GUIConfig>
         <GUIConfig name="MaitainIndent">yes</GUIConfig>
         <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="no">yes</GUIConfig>
-        <GUIConfig name="RememberLastSession">no</GUIConfig>
+        <GUIConfig name="RememberLastSession">yes</GUIConfig>
         <GUIConfig name="DetectEncoding">yes</GUIConfig>
         <GUIConfig name="SaveAllConfirm">yes</GUIConfig>
         <GUIConfig name="NewDocDefaultSettings" format="0" encoding="4" lang="0" codepage="-1" openAnsiAsUTF8="yes" addNewDocumentOnStartup="no" />
@@ -71,12 +77,12 @@
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
-        <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
+        <GUIConfig name="openSaveDir" value="0" defaultDirPath="" lastUsedDirPath="" />
         <GUIConfig name="titleBar" short="no" />
         <GUIConfig name="insertDateTime" customizedFormat="yyyy-MM-dd HH:mm:ss" reverseDefaultOrder="no" />
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
-        <GUIConfig name="largeFileRestriction" fileSizeMB="200" isEnabled="yes" allowAutoCompletion="no" allowBraceMatch="no" allowSmartHilite="no" allowClickableLink="no" deactivateWordWrap="yes" />
+        <GUIConfig name="largeFileRestriction" fileSizeMB="200" isEnabled="yes" allowAutoCompletion="no" allowBraceMatch="no" allowSmartHilite="no" allowClickableLink="no" deactivateWordWrap="yes" suppress2GBWarning="no" />
         <GUIConfig name="multiInst" setting="0" clipboardHistory="no" documentList="no" characterPanel="no" folderAsWorkspace="no" projectPanels="no" documentMap="no" fuctionList="no" pluginPanels="no" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" fileSwitcherNoGroups="no" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="yes" muteSounds="no" enableFoldCmdToggable="no" hideMenuRightShortcuts="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" fillFindFieldWithSelected="yes" fillFindFieldSelectCaret="yes" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
@@ -86,8 +92,8 @@
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" customColorDisabledEdge="4737096" enableWindowsMode="no" darkThemeName="Npp-1-Dark.xml" darkToolBarIconSet="0" darkTabIconSet="2" darkTabUseTheme="no" lightThemeName="" lightToolBarIconSet="4" lightTabIconSet="0" lightTabUseTheme="yes" />
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="yes" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" npcShow="show" npcMode="1" npcCustomColor="no" npcIncludeCcUniEOL="no" ccShow="yes" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="699" topHeight="200" bottomHeight="200">
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="no" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="NppMarkdownPanel" id="1" curr="1" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />

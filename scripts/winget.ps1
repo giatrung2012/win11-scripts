@@ -1,3 +1,3 @@
-winget install flux.flux NextDNS.NextDNS.Desktop VNGCorp.Zalo VirusTotal.VirusTotalUploader Microsoft.Teams Tonec.InternetDownloadManager
+winget install -h VNGCorp.Zalo Tonec.InternetDownloadManager VirusTotal.VirusTotalUploader
 
-# winget install Apple.iTunes --interactive
+winget uninstall -h Microsoft.DevHome MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe

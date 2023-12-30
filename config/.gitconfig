@@ -3,5 +3,3 @@
 	name = giatrung2012
 [safe]
 	directory = E:/win11-scripts
-[credential]
-	helper = manager
